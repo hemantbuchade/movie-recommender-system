@@ -1,5 +1,7 @@
 # movie-recommender-system
 
+<img src="https://github.com/hemantbuchade/movie-recommender-system/raw/main/movies.jpg" alt="Movies" width="100%">
+
 ## Problem Statement:
 - The goal of this project is to develop a movie recommender system using a dataset of movies. The challenge is to provide accurate and relevant movie recommendations to users based on their input movie.
 
