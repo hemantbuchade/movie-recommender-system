@@ -25,6 +25,6 @@
 ## Conclusion:
 - In conclusion, the movie recommender system implemented in this project effectively leverages movie features and cosine similarity to provide accurate recommendations. By considering genres, keywords, cast, and crew information, the system captures the essence of movies and finds similar movies that align with users' preferences. The system can be further enhanced by incorporating additional features and refining the recommendation algorithm, ultimately improving the overall user experience in discovering new movies.
 
-![similarity.pkl](https://drive.google.com/file/d/1UATeXWK0GXNzYyvpEdPIlAyGWHHvNFKF/view?usp=drive_link)
 
-[Download similarity.pkl](https://drive.google.com/uc?export=download&id=1UATeXWK0GXNzYyvpEdPIlAyGWHHvNFKF)
+Download similarity.pkl:
+[similarity.pkl](https://drive.google.com/uc?export=download&id=1UATeXWK0GXNzYyvpEdPIlAyGWHHvNFKF)
